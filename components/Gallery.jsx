@@ -59,7 +59,7 @@ export default function Gallery() {
   return (
     <div>
       <div
-        className="rounded-3xl bg-[#363C43] flex"
+        className="rounded-3xl bg-[#363C43] flex max-w-3xl"
         style={{ boxShadow: "5.67px 5.67px 3.78px 0px #00000066" }}
       >
         <div className="flex items-center flex-col  ml-3 mt-2 pt-6">
